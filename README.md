@@ -1,6 +1,7 @@
 ## Hey I'm Nicholas.
 
-I'm a seasoned spaghetti cooker. I air my old code like dirty laundry for the viewer's amusement.
+I'm am a current student at NTU, who likes to solve interesting techinical problems.
+Feel free to look around at my personal repository of past toy projects.
 
 - C++
 - CMake
